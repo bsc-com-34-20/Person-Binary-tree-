@@ -40,7 +40,7 @@ namespace Assignmentsc_
                             break;
 
                         case 4:
-                            Console.WriteLine("\n\tThabnk you Bye!!.");
+                            Console.WriteLine("\n\tThank you Bye!!.");
                             Environment.Exit(0);
                             break;
 

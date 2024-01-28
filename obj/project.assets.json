@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsc-c\\Desktop\\Assignments\\Assignments2\\Assignmentsc#.csproj",
+      "projectUniqueName": "C:\\Users\\bsc-c\\Desktop\\Assignments\\NICKSON(BSC-COM-34-20)\\Assignmentsc#.csproj",
       "projectName": "Assignmentsc#",
-      "projectPath": "C:\\Users\\bsc-c\\Desktop\\Assignments\\Assignments2\\Assignmentsc#.csproj",
+      "projectPath": "C:\\Users\\bsc-c\\Desktop\\Assignments\\NICKSON(BSC-COM-34-20)\\Assignmentsc#.csproj",
       "packagesPath": "C:\\Users\\bsc-c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsc-c\\Desktop\\Assignments\\Assignments2\\obj\\",
+      "outputPath": "C:\\Users\\bsc-c\\Desktop\\Assignments\\NICKSON(BSC-COM-34-20)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsc-c\\AppData\\Roaming\\NuGet\\NuGet.Config"
